@@ -1,0 +1,20 @@
+body{
+	color: #9f8170;
+	font-family:georgia;
+	background-color: black;
+	background-image: url("../images/beer-bg.jpg");
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+h2, h3{
+	color: lightgray;
+}
+span{
+	font-weight: bold;
+	color: #ad0000;
+}
+.container{
+	text-align:center;
+	padding:15px;
+	line-height:200%;
+}
